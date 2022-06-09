@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:ital,wght@0,900;1,700;1,900&family=Sonsie+One&display=swap');
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Sonsie One', cursive;
+}
+.container{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all_1{
+    margin-left: 5rem;
+    background-color: white;
+    width: 80rem;
+    height: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content : center;
+}
+
+.box-1 {
+    margin-left: 29rem;
+    background-color: #42BFD4;
+    width: 15rem;
+    height: 4rem;
+    color: white;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_2{
+    margin-left: 10rem;
+    margin-top: 2.5rem;
+}
+.box_3{
+    margin-top: 2rem;
+}
+.auto_1{
+    font-size: 2.5rem;
+}
+.auto_2{
+    font-size: 2.5rem;
+    color: #01AEE8;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.auto_3{
+    font-size: 2.5rem;
+    margin-top: 10rem;
+}
+.box_4{
+    margin-top: 3rem;
+    margin-left: 22rem;
+}
+.choose_1{
+    background-color: #2C2F34;
+    width: 15rem;
+    height: 4rem;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+    border: 0;
+}
+.choose_2{
+    background-color: #2C2F34;
+    width: 15rem;
+    height: 4rem;
+    color: white;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+    margin-left: 1.5rem;
+    border: 0ch;
+}
